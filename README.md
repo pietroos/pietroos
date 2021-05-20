@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm a Computer science student of the IIS G.Marconi of Civitavecchia
+- I live in Santa Marinella, near Rome
+
 <!--
 **pietroos/pietroos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
