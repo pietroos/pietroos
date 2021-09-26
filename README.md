@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Soon to be computer science student at Sapienza university of Rome.
+- Computer science student at Sapienza university of Rome.
 - I live in Santa Marinella, near Rome.
 
 <!--
